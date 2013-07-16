@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="5783fef7-fe68-4cf2-89df-eb62d3348b5e">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings>
+      <FilePath>
+        <Path>C:\Users\Ivan\documents\visual studio 2012\Projects\ConditionalStatements\BiggestOfThree\BiggestOfThree.cs</Path>
+        <ProjectFullName>C:\Users\Ivan\documents\visual studio 2012\Projects\ConditionalStatements\BiggestOfThree\BiggestOfThree.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>17</Column>
+          <Text>Remove surrounding block</Text>
+          <Line>31</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>17</Column>
+          <Text>The &lt;/C&gt;if&lt;//C&gt; and &lt;/C&gt;else&lt;//C&gt; parts of this statement are identical</Text>
+          <Line>31</Line>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>
